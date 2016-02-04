@@ -30,4 +30,13 @@ Introduce ASP.NET Core 1.0
 - Introduce the VS 2015 web dev features including Grunt, Gulp, Bower, and NPM integration 
 - Jump into the demo on [VS and web tool essentials](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/Presentation/02-ASPNET-and-VS-Web-Tooling/Visual-Studio-and-Web-Essentials) and [Tag Helpers](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/Presentation/02-ASPNET-and-VS-Web-Tooling/TagHelpers)
 
+### Building web front ends for both desktop and mobile using the latest web standards
+
+This session gives an overview of modern web standards and modern JavaScript libraries such jQuery, Knockout.js, AngularJS, and Ember.js. [Training video](https://channel9.msdn.com/events/Windows-Azure-DevCamps/WebCamp/WEB4)
+
+### API Services for both web and devices
+
+This session will begin by explaining what HTTP services are and some HTTP API design principles like REST and Hypermedia.
+[Training video](https://channel9.msdn.com/Events/Windows-Azure-DevCamps/WebCamp/WEB5)
+
 
