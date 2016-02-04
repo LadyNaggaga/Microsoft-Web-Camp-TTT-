@@ -32,12 +32,12 @@ Introduce ASP.NET Core 1.0
 
 ### Building web front ends for both desktop and mobile using the latest web standards
 
-This session gives an overview of modern web standards and modern JavaScript libraries such jQuery, Knockout.js, AngularJS, and Ember.js. [Training video](https://channel9.msdn.com/events/Windows-Azure-DevCamps/WebCamp/WEB4)
+This session gives an overview of modern web standards and modern JavaScript libraries such jQuery, Knockout.js, AngularJS, and Ember.js. [Intro to the basics](https://channel9.msdn.com/events/Windows-Azure-DevCamps/WebCamp/WEB4)
 
 ### API Services for both web and devices
 
 This session will begin by explaining what HTTP services are and some HTTP API design principles like REST and Hypermedia.
-[Training video](https://channel9.msdn.com/Events/Windows-Azure-DevCamps/WebCamp/WEB5)
+[Intro to the basics](https://channel9.msdn.com/Events/Windows-Azure-DevCamps/WebCamp/WEB5)
 This  video covers the basics. 
 
 The demo at the end is Ember.js (and a bit dated at this point). Consider holding off on the documented Angular demo (Building the GeekQuiz front end) to have time for the [HOL for Api & SPA](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/HOL/AspNetApiSpa)
