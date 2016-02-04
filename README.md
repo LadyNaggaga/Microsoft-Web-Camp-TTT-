@@ -42,7 +42,8 @@ This  video covers the basics. The demo at the end is Ember.js (and a bit dated 
 Also consider an example of bower (either in the existing templates or from a new command line) to install jQuery
 bower init
 bower install jQuery --save
-#note results in bower_components/jquery/dist folder
+
+Note the added files in bower_components/jquery/dist folder. We've seen lots of attendees lately not having any experience with npm or bower.
 
 ### Running, improving and maintaining a site in the real world
 Talk about running, improving, and maintaining a site in the real world in the context of three different scenarios: scale, change, and environments.
