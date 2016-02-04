@@ -17,7 +17,7 @@
 
 #Suggested Sessions & Descriptions
 
-###Introduction to  ASP.NET Core 1.0  & MVC 6 & VS 2015 Tooling
+###Introduction to  ASP.NET Core 1.0  & MVC & VS 2015 Tooling
 
 - Start by explaining the One ASP.NET experience in VS2015. There’s no MVC project type or Web Forms project any longer, there’s just ASP.NET.  Make sure that the audience is aware that they can mix Web Forms and Web API, or MVC and SignalR.  It is all supported. 
 - One ASP.NET Demo: In this demo create a new one ASP.NET Tool in VS 2015. Start with  Web Forms app and create a simple model "Person", and use the new scaffold an MVC & Web API .
