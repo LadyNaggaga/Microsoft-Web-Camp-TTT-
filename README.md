@@ -9,7 +9,7 @@
 | 11:00 -11:15 AM  	| Break	|
 | 11:15 -11:45 AM  	| [Demo - Building and deploying an ASP.NET application](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/Presentation/03-Build-and-deploy-ASPNET)|
 | 11:45 AM - 12:30 PM 	|[Building web front ends for both desktop and mobile using the latest web standards](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/Presentation/04-Modern-Web-Front-Ends)	|
-| 12:30 - 1:00 PM  	| Lunch  	|
+| 12:30 - 1:00 PM  	| [Lunch](http://img1.joyreactor.com/pics/post/gif-lunch-food-bun-373379.gif)  	|
 | 1:00 PM - 2:00 PM 	| API Services for both [web](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/Presentation/05-HTTP-Services/GeekQuiz-Web-API-Universal-Windows) and [devices](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/Presentation/05-HTTP-Services/GeekQuiz-Web-API-backend)	|
 | 2:00 PM - 3:00 PM 	| [Instructor led / hands-on labs ASP.NET MVC 6 & SPA](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/HOL/AspNetApiSpa)  	|
 | 3:00 PM - 4:00 PM 	| [Running, improving and maintaining a site in the real world](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/Presentation/06-ASPNET-in-Production). 	|
