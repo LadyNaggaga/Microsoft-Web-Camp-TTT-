@@ -28,7 +28,7 @@
     - scaffold a web api controller for person 
     
 ### Introduce ASP.NET Core 1.0
-- Must reads on name change and Release timing: 
+- Must reads on name change and release timing: 
  - http://www.hanselman.com/blog/ASPNET5IsDeadIntroducingASPNETCore10AndNETCore10.aspx
  - https://blogs.msdn.microsoft.com/webdev/2016/02/01/an-update-on-asp-net-core-and-net-core/
 - Introduce the VS 2015 web dev features including Grunt, Gulp, Bower, and NPM integration 
