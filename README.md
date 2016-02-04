@@ -26,6 +26,7 @@
     - Create a simple model person
     - scaffold an MVC controller for person 
     - scaffold a web api controller for person 
+    
 Introduce ASP.NET Core 1.0
 - Introduce the VS 2015 web dev features including Grunt, Gulp, Bower, and NPM integration 
 - Jump into the demo on [VS and web tool essentials](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/Presentation/02-ASPNET-and-VS-Web-Tooling/Visual-Studio-and-Web-Essentials) and [Tag Helpers](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/Presentation/02-ASPNET-and-VS-Web-Tooling/TagHelpers)
