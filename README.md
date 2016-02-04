@@ -19,8 +19,15 @@
 
 ###Introduction to  ASP.NET Core 1.0  & MVC 6 & VS 2015 Tooling
 
-- Start by explainin the One ASP.NET experience in VS2015. There’s no MVC project type or Web Forms project any longer, there’s just ASP.NET.  Make sure that the audience is aware that they can mix Web Forms and Web API, or MVC and SignalR.  It is all supported.
-
-- Introduce the VS 2015 web dev features 
+- Start by explaining the One ASP.NET experience in VS2015. There’s no MVC project type or Web Forms project any longer, there’s just ASP.NET.  Make sure that the audience is aware that they can mix Web Forms and Web API, or MVC and SignalR.  It is all supported. 
+- One ASP.NET Demo: In this demo create a new one ASP.NET Tool in VS 2015. Start with  Web Forms app and create a simple model "Person", and use the new scaffold an MVC & Web API .
+    Goal of the demo is to 
+    - Create a new ASP.NET 4.5 site 
+    - Create a simple model person
+    - scaffold an MVC controller for person 
+    - scaffold a web api controller for person 
+Introduce ASP.NET Core 1.0
+- Introduce the VS 2015 web dev features including Grunt, Gulp, Bower, and NPM integration 
+- Jump into the demo on [VS and web tool essentials](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/Presentation/02-ASPNET-and-VS-Web-Tooling/Visual-Studio-and-Web-Essentials) and [Tag Helpers](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/Presentation/02-ASPNET-and-VS-Web-Tooling/TagHelpers)
 
 
