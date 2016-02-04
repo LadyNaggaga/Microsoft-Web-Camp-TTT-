@@ -20,8 +20,7 @@
 ###Introduction to  ASP.NET Core 1.0  & MVC 6 & VS 2015 Tooling
 
 - Start by explainin the One ASP.NET experience in VS2015. There’s no MVC project type or Web Forms project any longer, there’s just ASP.NET.  Make sure that the audience is aware that they can mix Web Forms and Web API, or MVC and SignalR.  It is all supported.
-- Introduce the VS 2015 web dev features 
-- 
 
-#### To add this repo please make a pull request
+- Introduce the VS 2015 web dev features 
+
 
