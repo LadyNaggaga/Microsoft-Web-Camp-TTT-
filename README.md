@@ -4,7 +4,7 @@
 |Time	|Session|
 |---	|---	|
 | 8:30 AM  	| 	Welcome and [keynote](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/Presentation/01-Keynote)	|
-| 9:00 - 10:00 AM  	|  [Intro to ASP.NET Core 1.0, MVC 6 and Visual Studio 2015 Web Tooling](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/Presentation/02-ASPNET-and-VS-Web-Tooling)	|
+| 9:00 - 10:00 AM  	|  [Intro to ASP.NET Core 1.0, MVC and Visual Studio 2015 Web Tooling](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/Presentation/02-ASPNET-and-VS-Web-Tooling)	|
 | 10:00 -11:00 AM  	| [Instructor led/hands-on labs on ASP.NET Core 1.0 & MVC 6 & VS 2015 Tooling](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/HOL/IntroToASPNETCore) 	|
 | 11:00 -11:15 AM  	| Break	|
 | 11:15 -11:45 AM  	| [Demo - Building and deploying an ASP.NET application](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/Presentation/03-Build-and-deploy-ASPNET)|
