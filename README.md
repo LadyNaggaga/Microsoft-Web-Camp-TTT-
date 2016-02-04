@@ -53,6 +53,6 @@ Note the added files in bower_components/jquery/dist folder. We've seen lots of 
 
 ### Running, improving and maintaining a site in the real world
 Talk about running, improving, and maintaining a site in the real world in the context of three different scenarios: scale, change, and environments.
-[Training Video](https://channel9.msdn.com/Events/Windows-Azure-DevCamps/WebCamp/WEB6)
+[Intro to the basics](https://channel9.msdn.com/Events/Windows-Azure-DevCamps/WebCamp/WEB6)
 
 
