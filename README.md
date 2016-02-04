@@ -15,7 +15,7 @@
 | 3:00 PM - 4:00 PM 	| Running, improving and maintaining a site in the real world.[Scaling](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/aspnet-5-updates/Presentation/ASPNET-in-Production/Scaling-a-production-website), [EF & Deployment](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/aspnet-5-updates/Presentation/ASPNET-in-Production/Handling-change-EF-migrations), &[AAD](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/aspnet-5-updates/Presentation/ASPNET-in-Production/Handling-change-EF-migrations) 	|
 | 4:30 PM - 5 PM  	| Wrap-up(Q&A) / Evaluations / Raffle   	|
 
-#Sessions Descriptions
+#Suggested Sessions & Descriptions
 
 ###Introduction to  ASP.NET Core 1.0  & MVC 6 & VS 2015 Tooling
 
