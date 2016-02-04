@@ -39,4 +39,8 @@ This session gives an overview of modern web standards and modern JavaScript lib
 This session will begin by explaining what HTTP services are and some HTTP API design principles like REST and Hypermedia.
 [Training video](https://channel9.msdn.com/Events/Windows-Azure-DevCamps/WebCamp/WEB5)
 
+### Running, improving and maintaining a site in the real world
+Talk about running, improving, and maintaining a site in the real world in the context of three different scenarios: scale, change, and environments.
+[Training Video](https://channel9.msdn.com/Events/Windows-Azure-DevCamps/WebCamp/WEB6)
+
 
