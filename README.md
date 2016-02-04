@@ -38,6 +38,11 @@ This session gives an overview of modern web standards and modern JavaScript lib
 
 This session will begin by explaining what HTTP services are and some HTTP API design principles like REST and Hypermedia.
 [Training video](https://channel9.msdn.com/Events/Windows-Azure-DevCamps/WebCamp/WEB5)
+This  video covers the basics. The demo at the end is Ember.js (and a bit dated at this point). Consider holding off on the documented Angular demo (Building the GeekQuiz front end) to have time for the [HOL for Api & SPA](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/HOL/AspNetApiSpa)
+Also consider an example of bower (either in the existing templates or from a new command line) to install jQuery
+bower init
+bower install jQuery --save
+#note results in bower_components/jquery/dist folder
 
 ### Running, improving and maintaining a site in the real world
 Talk about running, improving, and maintaining a site in the real world in the context of three different scenarios: scale, change, and environments.
