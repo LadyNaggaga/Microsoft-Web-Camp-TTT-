@@ -10,8 +10,8 @@
 | 11:15 -11:45 AM  	| [Demo - Building and deploying an ASP.NET application](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/aspnet-5-updates/Presentation/Build-and-deploy-ASPNET/GeekQuiz-Build-and-deploy-ASP)|
 | 11:45 AM - 12:30 PM 	|[Building web front ends for both desktop and mobile using the latest web standards](https://github.com/Microsoft-Web/WebCampTrainingKit/blob/aspnet-5-updates/Presentation/Modern-Web-Front-Ends/GeekQuiz-SPA-Interface)	|
 | 12:30 - 1:00 PM  	| Lunch  	|
-| 1:00 PM - 2:00 PM 	| [Instructor led / hands-on labs ASP.NET MVC 6 & SPA](https://github.com/Microsoft-Web/WebCampTrainingKit/blob/aspnet-5-updates/HOL/AspNetApiSpa)  	|
-| 2:00 PM - 3:00 PM 	| API Services for both [web](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/aspnet-5-updates/Presentation/HTTP-Services/GeekQuiz-Web-API-backend) and [devices](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/aspnet-5-updates/Presentation/HTTP-Services/GeekQuiz-Web-API-Universal-Windows)	|
+| 1:00 PM - 2:00 PM 	| API Services for both [web](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/aspnet-5-updates/Presentation/HTTP-Services/GeekQuiz-Web-API-backend) and [devices](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/aspnet-5-updates/Presentation/HTTP-Services/GeekQuiz-Web-API-Universal-Windows)	|
+| 2:00 PM - 3:00 PM 	| [Instructor led / hands-on labs ASP.NET MVC 6 & SPA](https://github.com/Microsoft-Web/WebCampTrainingKit/blob/aspnet-5-updates/HOL/AspNetApiSpa)  	|
 | 3:00 PM - 4:00 PM 	| Running, improving and maintaining a site in the real world.[Scaling](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/aspnet-5-updates/Presentation/ASPNET-in-Production/Scaling-a-production-website), [EF & Deployment](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/aspnet-5-updates/Presentation/ASPNET-in-Production/Handling-change-EF-migrations), &[AAD](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/aspnet-5-updates/Presentation/ASPNET-in-Production/Handling-change-EF-migrations) 	|
 | 4:30 PM - 5 PM  	| Wrap-up(Q&A) / Evaluations / Raffle   	|
 
