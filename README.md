@@ -56,7 +56,10 @@ Also consider an example of bower (either in the existing templates or from a ne
 Note the added files in bower_components/jquery/dist folder. We've seen lots of attendees lately not having any experience with npm or bower.
 
 ### Running, improving and maintaining a site in the real world
-Talk about running, improving, and maintaining a site in the real world in the context of three different scenarios: scale, change, and environments.
-[Intro to the basics](https://channel9.msdn.com/Events/Windows-Azure-DevCamps/WebCamp/WEB6)
+Talk about running, improving, and maintaining a site in the real world in the context of three different scenarios: scale, change, and environments.  Goal of the talk and demo is to give the attendees a sense of the tooling and support for adapting to the change in a real world environrment.
+
+- Cover the issues that are introduced once your site is in production. [This](https://channel9.msdn.com/Events/Windows-Azure-DevCamps/WebCamp/WEB6) video shows the deck and demos.
+- Consider swapping demos that are presented in the slides for the EF Migrations, Deploying and Preforming a RollBack in Produciton demos from the [HOL](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/HOL/WebSitesInProduction#Exercises) (Exercises 1,2,3).
+
 
 
