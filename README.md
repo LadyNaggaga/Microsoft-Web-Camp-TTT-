@@ -1,10 +1,10 @@
 # Microsoft Web Camp Train The Trainer Repo 
 
 ### Table of Content
-- Requirements
-- Suggested Agenda:  Please make sure to review content and make it your own.
-- Session Descriptions 
-- FAQ 
+- [Requirements](https://github.com/LadyNaggaga/Microsoft-Web-Camp-TTT-#requirements)
+- [Suggested Agenda](https://github.com/LadyNaggaga/Microsoft-Web-Camp-TTT-#suggested-agenda):  Please make sure to [review orignal content](https://github.com/Microsoft-Web/WebCampTrainingKit) and make it your own.
+- [Session Descriptions](https://github.com/LadyNaggaga/Microsoft-Web-Camp-TTT-#requirements) 
+- [FAQ](https://github.com/LadyNaggaga/Microsoft-Web-Camp-TTT-/blob/master/README.md#faq)
 
 ## Requirements
 |||
