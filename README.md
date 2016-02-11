@@ -1,5 +1,18 @@
 # Microsoft Web Camp Train The Trainer Repo 
 
+### Table of Content
+- Requirements
+- Suggested Agenda:  Please make sure to review content and make it your own.
+- Session Descriptions 
+- FAQ 
+
+## Requirements
+|||
+|---	|---	|
+| Tools 	| 	[ASP.NET Core RC](https://go.microsoft.com/fwlink/?LinkId=627627) |
+| Content	| [Web Camp Installer](https://github.com/Microsoft-Web/WebCampTrainingKit/releases/tag/v2016.02.09).  |
+| Nice to haves 	| USBs with 	[ASP.NET Core RC](https://go.microsoft.com/fwlink/?LinkId=627627)	|
+
 ## Suggested Agenda 
 |Time	|Session|
 |---	|---	|
@@ -61,5 +74,16 @@ Talk about running, improving, and maintaining a site in the real world in the c
 - Cover the issues that are introduced once your site is in production. [This](https://channel9.msdn.com/Events/Windows-Azure-DevCamps/WebCamp/WEB6) video shows the deck and demos.
 - Consider swapping demos that are presented in the slides for the EF Migrations, Deploying and Preforming a RollBack in Produciton demos from the [HOL](https://github.com/Microsoft-Web/WebCampTrainingKit/tree/master/HOL/WebSitesInProduction#Exercises) (Exercises 1,2,3).
 
-
+### FAQ 
+##### Web Forms 
+- Are Web Forms going away ?  No Web Forms are not going way. 
+- How do I integrate MVC with my currnet Web Form application?
+##### WCF
+- Will WCF be supported in the future ?
+- Can I migrate from WCF to Web APIs?
+### Content Ideas
+If you have any content ideas, demos and demos scripts please link them below.
+- Getting Started on Mac (Maria to add demo script)
+- Docker 
+- Dashboards, Web APIs , MVC & SPA (work in progress)
 
