@@ -2,7 +2,7 @@
 
 ### Table of Content
 - [Requirements](https://github.com/LadyNaggaga/Microsoft-Web-Camp-TTT-#requirements)
-- [Suggested Agenda](https://github.com/LadyNaggaga/Microsoft-Web-Camp-TTT-#suggested-agenda):  Please make sure to [review orignal content](https://github.com/Microsoft-Web/WebCampTrainingKit) and make it your own.
+- [Suggested Agenda](https://github.com/LadyNaggaga/Microsoft-Web-Camp-TTT-#suggested-agenda):  Please make sure to [review original content](https://github.com/Microsoft-Web/WebCampTrainingKit) and make it your own.
 - [Session Descriptions](https://github.com/LadyNaggaga/Microsoft-Web-Camp-TTT-#requirements) 
 - [FAQ](https://github.com/LadyNaggaga/Microsoft-Web-Camp-TTT-/blob/master/README.md#faq)
 
