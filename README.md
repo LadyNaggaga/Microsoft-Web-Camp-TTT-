@@ -82,9 +82,10 @@ Talk about running, improving, and maintaining a site in the real world in the c
 ##### WCF
 - Will WCF be supported in the future ?
 - Can I migrate from WCF to Web APIs?
+
 ### Content Ideas
 If you have any content ideas, demos and demos scripts please link them below.
-- Getting Started on Mac (Maria to add demo script)
+- [Getting Started on Mac](https://github.com/aspnet/aspnet-docker) (Maria to add demo script)
 - [Docker](https://github.com/aspnet/aspnet-docker)
 - Dashboards, Web APIs , MVC & SPA (work in progress)
 
