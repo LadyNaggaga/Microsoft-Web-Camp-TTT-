@@ -1,5 +1,7 @@
 # Microsoft Web Camp Train The Trainer Repo 
 
+[![Join the chat at https://gitter.im/LadyNaggaga/Microsoft-Web-Camp-TTT-](https://badges.gitter.im/LadyNaggaga/Microsoft-Web-Camp-TTT-.svg)](https://gitter.im/LadyNaggaga/Microsoft-Web-Camp-TTT-?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Table of Content
 - [Requirements](https://github.com/LadyNaggaga/Microsoft-Web-Camp-TTT-#requirements)
 - [Suggested Agenda](https://github.com/LadyNaggaga/Microsoft-Web-Camp-TTT-#suggested-agenda):  Please make sure to [review original content](https://github.com/Microsoft-Web/WebCampTrainingKit) and make it your own.
