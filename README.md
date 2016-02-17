@@ -1,4 +1,5 @@
 # Microsoft Web Camp Train The Trainer Repo 
+[![Gitter](https://badges.gitter.im/LadyNaggaga/Microsoft-Web-Camp-TTT-.svg)](https://gitter.im/LadyNaggaga/Microsoft-Web-Camp-TTT-?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ### Table of Content
 - [Requirements](https://github.com/LadyNaggaga/Microsoft-Web-Camp-TTT-#requirements)
